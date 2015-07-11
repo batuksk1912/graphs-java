@@ -1,9 +1,6 @@
 import java.util.Scanner;
 import java.util.Iterator;
 
-/* This project created by Baturay Kayaturk - 120315024, Hikmet Kagan Cetin - 120315012, Ozge Alkan - 120315003
- Data Structures Project 3 - Using Graph Data Structure (Our implementation) and for algorithms use many data structures*/
-
 public class Test {
 
     private static boolean state = true;
