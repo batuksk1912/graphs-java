@@ -12,6 +12,6 @@ cmd --> cd Desktop --> java -jar Graph.jar --> Enjoy.
 For MAC OS;
 Terminal --> cd Desktop --> java -jar Graph.jar --> Enjoy.
 
-(You must install java and jdk. And must defined in OS path.)
+(You must install java and jdk. And must defined in OS path. (For Windows))
 
 
