@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Iterator;
 
+
 public class Test {
 
     private static boolean state = true;
