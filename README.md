@@ -1,6 +1,6 @@
 # graphs-java
 
-Graph example with Java. Please execute Test.java on terminal. (For executing classes.)
+Graphs example with Java. Please execute Test.java on terminal. (For executing classes.)
 
 For executing .jar file; 
 
